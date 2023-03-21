@@ -1,4 +1,4 @@
-[![MasterHead](https://www.advanceinnovationgroup.com/images/aiml.jpg)]
+[![MasterHead](https://media.licdn.com/dms/image/C4D16AQEyQX4k21SfDg/profile-displaybackgroundimage-shrink_350_1400/0/1655813928884?e=1684972800&v=beta&t=DTOnhXgFPnxsvkFEts0vf9xv90EtUj28X_hBIfDgPrc)]
 
 <img align="right" alt="Coding" width="400" src="https://resources.biginterview.com/wp-content/uploads/2022/12/Resume-Template-for-a-Data-Scientist.jpg">
 
