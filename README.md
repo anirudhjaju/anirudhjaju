@@ -13,7 +13,7 @@
 📫 Let's connect:  
 📞 9014542043  
 📧 anirudhjaju001@gmail.com  
-🔗 [My Resume](https://drive.google.com/file/d/1qL3onnVGcIPlNfeCylZeQT1sWasaYuhF/view?usp=drivesdk) <br><br>
+🔗 [My Resume]([https://drive.google.com/file/d/1qL3onnVGcIPlNfeCylZeQT1sWasaYuhF/view?usp=drivesdk](https://media.licdn.com/dms/document/media/v2/D562DAQEmu1lWnA0Tcw/profile-treasury-document-pdf-analyzed/profile-treasury-document-pdf-analyzed/0/1723372791215?e=1745452800&v=beta&t=MlnrsnJ6MjZwJmuAWDXM60HzE8VqvQzWubUQfGPh3-Y)) <br><br>
 
 
 
