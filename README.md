@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://resources.biginterview.com/wp-content/uploads/2022/12/Resume-Template-for-a-Data-Scientist.jpg">
 
 # 💫 About Me:
-🔭 I’m currently working as AIML Intern at E2E Rosh IT Solutions<br><br>👯 I’m looking to collaborate with passionate and growing organisation<br><br>📫 How to reach me : 9014542043 , anirudhjaju001@gmail.com<br><br>📄 Know about my experiences : https://drive.google.com/file/d/1qL3onnVGcIPlNfeCylZeQT1sWasaYuhF/view?usp=drivesdk<br><br>
+🔭 I’m currently working as Associate Software Enginner at Prolifics <br><br>👯 I’m looking to collaborate with passionate and growing organisation<br><br>📫 How to reach me : 9014542043 , anirudhjaju001@gmail.com<br><br>📄 Know about my experiences : https://drive.google.com/file/d/1qL3onnVGcIPlNfeCylZeQT1sWasaYuhF/view?usp=drivesdk<br><br>
 
 
 ## 🌐 Socials:
