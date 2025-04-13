@@ -23,6 +23,11 @@
 ![Large Language Model](https://img.shields.io/badge/Large%20Language%20Model-00599C?style=for-the-badge&logo=openai&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anirudhjaju&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
