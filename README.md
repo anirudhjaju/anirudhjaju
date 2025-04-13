@@ -2,12 +2,23 @@
 
 <img align="right" alt="Coding" width="400" src="https://resources.biginterview.com/wp-content/uploads/2022/12/Resume-Template-for-a-Data-Scientist.jpg">
 
-# 💫 About Me:
-🔭 I’m currently working as Associate Software Enginner at Prolifics <br><br>👯 I’m looking to collaborate with passionate and growing organisation<br><br>📫 How to reach me : 9014542043 , anirudhjaju001@gmail.com<br><br>📄 Know about my experiences : https://drive.google.com/file/d/1qL3onnVGcIPlNfeCylZeQT1sWasaYuhF/view?usp=drivesdk<br><br>
+### 💫 About Me:
+
+🔍 I'm a passionate Machine Learning & Data Science professional with **1.5 years of hands-on experience** in the **AI/ML domain**, currently working as an **Associate Software Engineer at Prolifics**. <br><br>
+
+🚀 I've worked on real-world projects involving **Deep Learning, Data Analytics, Computer Vision, and Large Language Models**, and I love transforming complex problems into data-driven solutions. <br><br>
+
+🤝 I'm actively looking for **freelance opportunities** where I can collaborate with **innovative teams or individuals** on impactful projects in AI/ML, data science. <br><br>
+
+📫 Let's connect:  
+📞 9014542043  
+📧 anirudhjaju001@gmail.com  
+🔗 [My Resume](https://drive.google.com/file/d/1qL3onnVGcIPlNfeCylZeQT1sWasaYuhF/view?usp=drivesdk) <br><br>
+
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_anirudh_jaju_007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anirudhjaju) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Anirudh39193343) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anirudhjaju)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-%2300599C.svg?style=for-the-badge&logo=Python&logoColor=white) !![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23ED8B00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
